@@ -1,0 +1,23 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch-All"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanksLi/compiler-nut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FanksLi/compiler-nut/issues"
+  },
+  "homepage": "https://github.com/FanksLi/compiler-nut#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
